@@ -1,0 +1,10 @@
+102, Rahul, 25, BCA
+, Enrolled
+103, Rajesh kumar, 21, Btech
+, Enrolled
+106, vivek, 23, bca
+, Enrolled
+109, Gulshan, 26, MBA
+, Enrolled
+101, nitish kumar, 22, 12th
+, Enrolled
